@@ -12,6 +12,7 @@ SpendWise is a full-stack personal expense tracker built with Java, Spring Boot,
 - Styling: Responsive custom CSS
 - Optional: Docker Compose
 
+
 ## Features
 
 - Add, edit, and delete expenses
