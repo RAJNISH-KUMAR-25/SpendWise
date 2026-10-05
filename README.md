@@ -1,6 +1,6 @@
 # SpendWise - Personal Expense Tracker
 
-SpendWise is a full-stack personal expense tracker built with Java, Spring Boot, React, and MySQL. It provides CRUD expense management, categories, filters, summary statistics, validation, centralized error handling, and a responsive dashboard.
+SpendWise is a full-stack personal expense tracker built with Java, Spring Boot, React, and MySQL. It provides CRUD expense management, categories, filters, summary statistics, validation, centralized error handling, and a responsive dashboard .
 
 ## Tech Stack
 
